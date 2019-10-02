@@ -28,7 +28,7 @@ header {
 
 header h1 {
 	padding: 40px 60px;
-	font-family:'Shrikhand', cursive;
+	font-family:"Shrikhand", cursive;
 }
 
 h1 {
@@ -37,7 +37,7 @@ h1 {
 }
 
 h2 {
-	font-family:'Shrikhand', cursive;
+	font-family:"Shrikhand", cursive;
 	text-transform:uppercase;
 }
 
